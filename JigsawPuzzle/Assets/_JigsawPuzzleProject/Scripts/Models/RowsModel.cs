@@ -1,8 +1,10 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace _2DPuzzle.Models{
+namespace JigsawPuzzle.Models {
+	[Serializable]
 	public class RowsModel {
 		[SerializeField] private GameObject startPiece;
 		[SerializeField] private GameObject[] midPieces;
