@@ -36,3 +36,5 @@ MonoBehaviour:
     - {fileID: 6116076971628354145, guid: b2c7e802327143a4da8d29dab0c50763, type: 3}
     - {fileID: 5078581575004598988, guid: 342d272cb09f147428b304f2cd0308ee, type: 3}
     endPiece: {fileID: 8911892018231497435, guid: 95a1038fbe704ef43ad6305ef4d3ea2e, type: 3}
+  draggingHighlightColor: {r: 0.5990566, g: 1, b: 0.6018604, a: 1}
+  matchedBackgroundHighlightColor: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
